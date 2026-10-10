@@ -10,7 +10,8 @@ Follow along on X: [https://x.com/yashkaushik_0_0]
 
 | Day | Topic | Status |
 |-----|-------|--------|
-| 1 | Setup, first program | ⬜ |
+| 0 | Setup | ✅ |
+| 1 | First program, variables, data type, if-else-else if | ✅ |
 
 ## How to run any program
 
