@@ -14,6 +14,7 @@ Follow along on X: [https://x.com/yashkaushik_0_0]
 | 1 | First program, variables, data type, if-else-else if | ✅ |
 | 2 | While loop, switch | ✅ |
 | 3 | For loop, TUI, Terminal based game, Max of five project | ✅ |
+| 4 | Functional programming, 5 projects | ✅ |
 
 ## How to run any program
 
