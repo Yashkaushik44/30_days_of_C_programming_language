@@ -16,6 +16,7 @@ Follow along on X: [https://x.com/yashkaushik_0_0]
 | 3 | For loop, TUI, Terminal based game, Max of five project | ✅ |
 | 4 | Functional programming, 5 projects | ✅ |
 | 5 | Basics of pointers, Null pointers, functional pointers | ✅ |
+| 6 | Various practice projects for pointers | ✅ |
 
 ## How to run any program
 
