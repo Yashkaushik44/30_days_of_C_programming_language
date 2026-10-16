@@ -17,6 +17,7 @@ Follow along on X: [https://x.com/yashkaushik_0_0]
 | 4 | Functional programming, 5 projects | ✅ |
 | 5 | Basics of pointers, Null pointers, functional pointers | ✅ |
 | 6 | Various practice projects for pointers | ✅ |
+| 7 | Arrays, 10 practice files, 4 projects | ✅ |
 
 ## How to run any program
 
