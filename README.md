@@ -18,6 +18,7 @@ Follow along on X: [https://x.com/yashkaushik_0_0]
 | 5 | Basics of pointers, Null pointers, functional pointers | ✅ |
 | 6 | Various practice projects for pointers | ✅ |
 | 7 | Arrays, 10 practice files, 4 projects | ✅ |
+| 8 | File handling basic syntax | ✅ |
 
 ## How to run any program
 
