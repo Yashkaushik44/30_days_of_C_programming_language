@@ -20,6 +20,7 @@ Follow along on X: [https://x.com/yashkaushik_0_0]
 | 7 | Arrays, 10 practice files, 4 projects | ✅ |
 | 8 | File handling basic syntax | ✅ |
 | 9 | Header file, linker error | ✅ |
+| 10 | Bubble sort | ✅ |
 
 ## How to run any program
 
