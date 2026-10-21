@@ -1,0 +1,3 @@
+/home/yash/c_programming/projects_intermediate/hotel_management_system/build/CMakeFiles/hotel_management_system.dir
+/home/yash/c_programming/projects_intermediate/hotel_management_system/build/CMakeFiles/edit_cache.dir
+/home/yash/c_programming/projects_intermediate/hotel_management_system/build/CMakeFiles/rebuild_cache.dir
