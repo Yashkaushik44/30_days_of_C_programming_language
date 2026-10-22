@@ -23,6 +23,7 @@ Follow along on X: [https://x.com/yashkaushik_0_0]
 | 10 | Bubble sort | ✅ |
 | 11 | C Make files, calc project, linker error understanding | ✅ |
 | 12 | Hotel Management Software | ✅ |
+| 13 | Static memory, heap memory, malloc, dynamic array | ✅ |
 
 ## How to run any program
 
