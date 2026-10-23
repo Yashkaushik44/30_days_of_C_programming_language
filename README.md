@@ -24,6 +24,7 @@ Follow along on X: [https://x.com/yashkaushik_0_0]
 | 11 | C Make files, calc project, linker error understanding | ✅ |
 | 12 | Hotel Management Software | ✅ |
 | 13 | Static memory, heap memory, malloc, dynamic array | ✅ |
+| 14 | raylib library intro, a circle moving game | ✅ |
 
 ## How to run any program
 
