@@ -25,6 +25,7 @@ Follow along on X: [https://x.com/yashkaushik_0_0]
 | 12 | Hotel Management Software | ✅ |
 | 13 | Static memory, heap memory, malloc, dynamic array | ✅ |
 | 14 | raylib library intro, a circle moving game | ✅ |
+| 15 | Triangle moving game | ✅ |
 
 ## How to run any program
 
